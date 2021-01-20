@@ -1,0 +1,47 @@
+[ {
+    "id":0,
+    "movieName" : "Wonder Woman",
+    "imageName": "Wonder Woman"
+     
+},
+{
+    "id":1,
+    "movieName" : "500 Days Of Summer",
+    "imageName": "500 Days Of Summer"
+
+},
+{
+    "id":2,
+    "movieName" : "Avengers",
+    "imageName": "Avengers"
+},
+{
+    "id":3,
+    "movieName" : "Black Swan",
+    "imageName": "Black Swan"
+},
+
+{
+    "id":4,
+    "movieName" : "Civil War",
+    "imageName": "Civil War"
+
+},
+{
+    "id":5,
+    "movieName" : "Infinity War",
+    "imageName": "Infinity War"
+},
+{
+    "id":6,
+    "movieName" : "Captain Marvel",
+    "imageName": "Captain Marvel"
+
+},
+{
+    "id":7,
+    "movieName" : "No Strings Attached",
+    "imageName": "No Strings Attached"
+
+
+}]
